@@ -19,5 +19,5 @@
 
 1. Download files
 2. Go to project folder in your terminal
-3. run $node euler11.js (you need node installed)
+3. run $node euler12.js (you need node installed)
 4. Follow me on github!
